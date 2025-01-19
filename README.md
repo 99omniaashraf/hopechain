@@ -1,5 +1,4 @@
 
-```markdown
 # HopeChain 🌟
 
 **HopeChain** is a web application that makes charitable donations more **transparent** and **effective** using **blockchain technology**. With HopeChain, users can donate cryptocurrency (ETN) to charities and track how their donations are used in real-time.
@@ -111,13 +110,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email:** omniaashraf249@gmail.com
-- **Twitter:** [@omniaashraf249](https://x.com/omniaashraf249)
-- **Website:** https://linktr.ee/omniaashraf249
+- **Email:** [Gemail](omniaashraf249@gmail.com)
+- **Website:** [@omniaashraf249](https://linktr.ee/omniaashraf249)
 
 ---
 
 **HopeChain** - Where hope meets blockchain. 🌍✨
-```
-
----
