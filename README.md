@@ -116,4 +116,3 @@ If you have any questions or suggestions, feel free to reach out:
 ---
 
 **HopeChain** - Where hope meets blockchain. 🌍✨
-
